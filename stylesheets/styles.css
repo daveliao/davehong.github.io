@@ -1,8 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
 
 body {
   padding:50px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:14px/1.5 Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#2f2f2f;
   font-weight:300;
 }
