@@ -1,14 +1,28 @@
 <html>
 
 <head>
+  
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-
-</head>
-<body>
-
-<p>This is an issue collector!</p>
-
+  
 <script type="text/javascript" src="https://jira-dev.we.co/s/7059e091350139e5b91cf3541a1414b3-T/-lfjzrg/74007/91184d03a064addc31c9fa56eedcc5a1/2.0.24/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?collectorId=b6e77452"></script>
 
+<script type="text/javascript">
+  window.ATL_JQ_PAGE_PROPS =  {
+  	"triggerFunction": function(showCollectorDialog) {
+			jQuery("#feedback-button").click(function(e) {
+				e.preventDefault();
+				showCollectorDialog();
+			});
+		}
+	};
+</script>
+
+</head>
+
+<body>
+ 
+	<h2>Submit an Event Request</h2>
+	<a href="#" id="feedback-button" class='btn btn-primary btn-large'>Submit Event Request</a>
+ 
 </body>
 </html>
