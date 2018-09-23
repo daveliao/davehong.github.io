@@ -1,4 +1,4 @@
 # daveliao.github.io
-##### There are many README's, but this is mine.
+##### README
 
-To apostrophe or not to apostrophe?
+Oh hai
