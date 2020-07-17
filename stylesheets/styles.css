@@ -3,7 +3,7 @@
 /* Derived from orderedlist's CSS as part of the Minimalist template. Refactored this to the point where it's barebones. */
 
 h1 {
-  font-family:'Alfa Slab One',Helvetica, Arial, sans-serif;
+  font-family:'Alfa Slab One';
   font-size:60px;
   font-weight:normal;
   display:inline;
