@@ -1,4 +1,4 @@
 # daveliao.github.io
 ##### README
 
-In this repo I experiment with CSS and how to build a nice site with as few dependencies as possible.
+Here's the public repository for the code powering daveliao.com, which I have hosted in GitHub Pages.
