@@ -16,18 +16,18 @@ h1 {
 }
 
 body {
-  padding:120px;
+  padding:160px;
   color:#2f2f2f;
-  font-weight:300;
+  /* font-weight:300; */
 }
 
 p, ul, ol, dl {
-  margin:0 0 20px;
+  margin:0 0 10px;
   font:14px/1.5 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 .wrapper {
-  width:850px;
+  width:800px;
   margin:0 auto;
 }
 
@@ -44,7 +44,7 @@ header {
 section {
   width:400px;
   float:right;
-  padding-bottom:50px;
+  padding-bottom:5px;
 }
 
 small {
