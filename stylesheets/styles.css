@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@200&display=swap');
 
 /* Derived from orderedlist's CSS as part of the Minimalist template. Refactored this to the point where it's barebones. */
 
@@ -27,7 +28,7 @@ body {
 
 p, ul, ol, dl {
   margin: 0 0 10px;
-  font: 14px/1.5 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'JetBrains Mono', monospace;
 }
 
 .wrapper {
