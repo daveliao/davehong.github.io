@@ -23,12 +23,12 @@ h2 {
 body {
   padding: 160px;
   color: #2f2f2f;
-  /* font-weight:300; */
 }
 
 p, ul, ol, dl {
   margin: 0 0 10px;
   font-family: 'JetBrains Mono', monospace;
+  font-size: 95%;
 }
 
 .wrapper {
