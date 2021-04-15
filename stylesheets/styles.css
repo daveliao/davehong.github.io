@@ -4,7 +4,13 @@
 /* Derived from orderedlist's CSS as part of the Minimalist template. Refactored this to the point where it's barebones. */
 
 a:link {
-  color: #fc8003;
+  color: #fc6b03;
+}
+
+a {
+  -webkit-text-underline-position: under;
+  -ms-text-underline-position: below;
+  text-underline-position: under;
 }
 
 h2 {
