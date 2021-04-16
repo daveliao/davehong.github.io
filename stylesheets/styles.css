@@ -1,8 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Trochut:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 
-/* Derived from orderedlist's CSS as part of the Minimalist template. Refactored this to the point where it's barebones. */
+/* Derived from orderedlist's Minimalist template CSS. Refactored to the point where it's barebones. */
 
 a {
   -webkit-text-underline-position: under;
@@ -11,8 +10,8 @@ a {
 }
 
 h2 {
-  font-family: 'Trochut', cursive;
-  font-size: 70px;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 64px;
   font-weight: normal;
   display: inline;
   margin: 0 0 10px;
