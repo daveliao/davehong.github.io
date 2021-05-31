@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
 
 /* Derived from orderedlist's Minimalist template CSS. Refactored to the point where it's barebones. */
 
@@ -10,7 +10,7 @@ a {
 }
 
 h2 {
-  font-family: 'Abril Fatface', cursive;
+  font-family: 'Patua One', cursive;
   font-size: 64px;
   font-weight: normal;
   display: inline;
@@ -19,7 +19,7 @@ h2 {
 }
 
 .salut {
-  color: #fcbe03;
+  color: #fc8003;
 }
 
 body {
