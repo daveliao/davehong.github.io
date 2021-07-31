@@ -8,7 +8,11 @@ a {
   -webkit-text-underline-position: under;
   -ms-text-underline-position: below;
   text-underline-position: under;
-  color: #409da5;
+  color: #0000ff;
+}
+
+a:visited {
+  color: #800080;
 }
 
 h2 {
