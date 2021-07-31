@@ -16,7 +16,7 @@ a:visited {
 
 h2 {
   font-family: 'Patua One', cursive;
-  font-size: 64px;
+  font-size: 400%;
   font-weight: normal;
   display: inline;
   margin: 0 0 10px;
@@ -36,7 +36,7 @@ body {
 p, ul, ol, dl {
   margin: 0 0 10px;
   font-family: 'IBM Plex Sans', sans-serif;
-  font-size: 125%;
+  font-size: 150%;
 }
 
 .wrapper {
