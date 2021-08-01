@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Benne&family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yrsa:wght@300&family=Roboto+Slab&display=swap');
 
 a {
   color: #0000ff;
@@ -27,7 +27,7 @@ body {
 }
 
 p, ul, ol, dl {
-  font-family: 'Benne', serif;
+  font-family: 'Yrsa', serif;
   font-size: 150%;
   line-height: 1.1;
 }
