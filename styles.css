@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@300&family=Roboto+Slab&display=swap');
 
-/* Derived from orderedlist's Minimalist template CSS. Refactored to the point where it's barebones. */
-
 a {
   -webkit-text-underline-position: under;
   -ms-text-underline-position: below;
@@ -24,14 +22,15 @@ h2 {
   color: #fc8003;
 }
 
+div {
+  max-width: 600px;
+}
+
 body {
   padding: 160px;
-  color: #2f2f2f;
-  background-color: #ffffff;
 }
 
 p, ul, ol, dl {
-  margin: 0 0 10px;
   font-family: 'Fraunces', serif;
   font-size: 150%;
 }
@@ -42,30 +41,7 @@ p, ul, ol, dl {
 }
 
 img {
-  max-width: 100%;
-}
-
-header {
-  width: 400px;
-  float: left;
-  position: fixed;
-}
-
-section {
-  width: 400px;
-  float: right;
-  padding-bottom: 5px;
-}
-
-small {
-  font-size: 11px;
-}
-
-footer {
-  width: 270px;
-  float: left;
-  position: fixed;
-  bottom: 50px;
+  max-width: 90%;
 }
 
 @media print, screen and (max-width: 960px) {
@@ -74,16 +50,7 @@ footer {
     width: auto;
     margin: 0;
   }
-  
-  header, section, footer {
-    float: none;
-    position: static;
-    width: auto;
-  }
-  
-  header {
-    padding-right: 320px;
-  }
+    
 }
 
 @media print, screen and (max-width: 720px) {
@@ -91,23 +58,11 @@ footer {
     word-wrap: break-word;
   }
   
-  header {
-    padding: 0;
-  }
 }
 
 @media print, screen and (max-width: 480px) {
   body {
     padding: 15px;
-  }
-  
-  header ul {
-    display: none;
-    width: 99%;
-  }
-    
-  header li, header ul li + li + li {
-    width: 33%;
   }
 }
 
