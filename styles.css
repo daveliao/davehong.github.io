@@ -1,9 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Benne&family=Roboto+Slab&display=swap');
 
 a {
-  -webkit-text-underline-position: under;
-  -ms-text-underline-position: below;
-  text-underline-position: under;
   color: #0000ff;
 }
 
