@@ -27,12 +27,12 @@ div {
 
 body {
   padding: 150px;
-  line-height: 1.1;
 }
 
 p, ul, ol, dl {
   font-family: 'Fraunces', serif;
   font-size: 150%;
+  line-height: 1.1;
 }
 
 img {
