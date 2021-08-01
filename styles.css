@@ -27,7 +27,8 @@ div {
 }
 
 body {
-  padding: 160px;
+  padding: 150px;
+  line-height: 1.1;
 }
 
 p, ul, ol, dl {
