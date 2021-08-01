@@ -1,6 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Fraunces&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@300&family=Roboto+Slab&display=swap');
 
 /* Derived from orderedlist's Minimalist template CSS. Refactored to the point where it's barebones. */
 
@@ -16,7 +14,7 @@ a:visited {
 }
 
 h2 {
-  font-family: 'Patua One', cursive;
+  font-family: 'Roboto Slab', serif;
   font-size: 400%;
   font-weight: normal;
   display: inline;
@@ -36,7 +34,7 @@ body {
 
 p, ul, ol, dl {
   margin: 0 0 10px;
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Fraunces', serif;
   font-size: 150%;
 }
 
