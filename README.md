@@ -1,4 +1,4 @@
 # daveliao.github.io
 ##### README
 
-Here's the repository for the code powering daveliao.com, hosted on GitHub Pages.
+Here's the repo for daveliao.com, hosted on GitHub Pages.
