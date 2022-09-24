@@ -11,7 +11,7 @@ a:visited {
 
 h2 {
   font-family: 'Roboto Slab', serif;
-  font-size: 370%;
+  font-size: 380%;
   display: inline;
 }
 
@@ -29,7 +29,7 @@ body {
 
 p, ul, ol, dl {
   font-family: 'Jost', serif;
-  font-size: 150%;
+  font-size: 125%;
   line-height: 1.3;
 }
 
