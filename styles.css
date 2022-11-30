@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yrsa:wght@600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
 
 a {
@@ -10,7 +10,7 @@ a:visited {
 }
 
 h2 {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Yrsa', serif;
   font-size: 380%;
   display: inline;
 }
