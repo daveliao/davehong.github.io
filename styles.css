@@ -31,7 +31,7 @@ body {
 p, ul, ol, dl {
   font-family: 'Chivo Mono', monospace;
   font-size: 115%;
-  line-height: 0.84;
+  line-height: 1;
 }
 
 img {
