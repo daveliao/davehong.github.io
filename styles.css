@@ -30,7 +30,7 @@ body {
 
 p, ul, ol, dl {
   font-family: 'Orbit', sans-serif;
-  font-size: 105%;
+  font-size: 100%;
   line-height: 1;
 }
 
@@ -56,7 +56,7 @@ img {
 
 @media print, screen and (max-width: 480px) {
   body {
-    padding: 15px;
+    padding: 12px;
   }
 }
 
